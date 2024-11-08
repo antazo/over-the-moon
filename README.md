@@ -17,3 +17,5 @@ python.exe -m venv my_venv
 pip install pandas
 pip install -U ipykernel
 ```
+
+Trying the Yolo Achievement here!
